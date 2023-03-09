@@ -24,3 +24,4 @@ for diz in data:
         #print('-------------------------------')
         segm.append({'day':diz['duration']['startTimestamp'].split('T')[0]})
 print(segm)
+print('ciao')
